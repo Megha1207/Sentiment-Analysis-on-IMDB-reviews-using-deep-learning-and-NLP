@@ -62,6 +62,7 @@ Testing Accuracy: 85.03%
 Training Accuracy: 96.58%
 Testing Loss: 0.4019
 Training Loss: 0.1025
+
 Impact of Sentiment Analysis on IMDB
 Guides Content Creation: Helps creators align movie content with audience preferences.
 Informs Audience Choices: Empowers viewers to make informed decisions based on sentiment.
